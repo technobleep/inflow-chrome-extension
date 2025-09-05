@@ -7,7 +7,8 @@ To add this extension to Google Chrome, follow these steps:
 ### Loading Your Extension in Chrome
 
 1. **Open Chrome Extensions Page**
-   - Download this repo
+   - Download this repo (click on the green "Code" button and select "Download ZIP")
+   - Unzip the file
    - Open Google Chrome
    - Go to `chrome://extensions/` in the address bar
    - Or click the three dots menu → More tools → Extensions
