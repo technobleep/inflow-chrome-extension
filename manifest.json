@@ -5,10 +5,12 @@
     "description": "Modify width of Story Column",
     "permissions": ["activeTab"],
     "action": {
-      "default_popup": "popup.html",
       "default_icon": {
         "16": "inflow.png"
       }
+    },
+    "background": {
+      "service_worker": "background.js"
     },
     "content_scripts": [{
       "matches": ["<all_urls>"],
